@@ -1,0 +1,5 @@
+[2026-04-23 17:50:01] [INFO] Car_Log.c:107 Log system initialized, log file: ./car_log.txt, level: INFO
+[2026-04-23 17:50:01] [INFO] car_ctl.c:387 发送 get_all 命令到模块 door
+[2026-04-23 17:50:01] [ERROR] car_ctl.c:144 连接模块失败 (/tmp/car_door.sock): No such file or directory
+[2026-04-23 17:50:17] [INFO] Car_Log.c:107 Log system initialized, log file: ./car_log.txt, level: INFO
+[2026-04-23 17:50:17] [INFO] car_ctl.c:387 发送 get_all 命令到模块 door
